@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6e0028/T/v1
+canonical_location: https://kanripo.org/bkk/KR6e0028/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說兜沙經
+  identifiers:
+    krp: KR6e0028
+    cbeta: T10n0280
+    cbeta_old_id: T10n0280
+    authorityid: CA0000790
+    json_key: T0280
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T10/T10n0280.xml
+    old_id: T10n0280
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6e0028_000-T.yaml, hash: 'sha256:27718b98b8a5e8b28a0a0895c8791b7edb4b4964f0c4a3fe5255b8438bba5e7c'}
+  - {seq: 1, filename: KR6e0028_001-T.yaml, hash: 'sha256:636c2fc193f2604f81845e00de304cda0b3dd511d8401b350f1acb33ea6eb13f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6e0028_000-T.markers.yaml, hash: 'sha256:88a2d4eef657cbc38654a264eaf7b1c6b3cc72a3d31e68f07307fa4419d68875'}
+  - {seq: 1, role: markers, filename: assets/KR6e0028_001-T.markers.yaml, hash: 'sha256:780a411555c90602c3650ffe785293df1dcce647c6c964aa84ac755b5c44e691'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6e0028_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 2173
+  label: 佛說兜沙經一卷
+  type: juan
+  level: 1
+hash: sha256:332e1771788aa1963ba80eca3085501aa6e37ea91877dfa48d875945391c0d71
