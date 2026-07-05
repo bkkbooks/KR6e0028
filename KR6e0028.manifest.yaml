@@ -34,9 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6e0028_000.yaml, hash: 'sha256:27718b98b8a5e8b28a0a0895c8791b7edb4b4964f0c4a3fe5255b8438bba5e7c'}
-  - {seq: 1, filename: KR6e0028_001.yaml, hash: 'sha256:6bc84a40af10cdd9050b84a6af0be24cfb4f070fcd35315c585948a5d1d7ab0e'}
+  - {seq: 1, filename: KR6e0028_001.yaml, hash: 'sha256:636c2fc193f2604f81845e00de304cda0b3dd511d8401b350f1acb33ea6eb13f'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6e0028_001.markers.yaml, hash: 'sha256:63ad28301af8af5d15a966457ebc009e22e8b187ea42a95412573a8d58bbb116'}
+  - {seq: 0, role: markers, filename: assets/KR6e0028_000.markers.yaml, hash: 'sha256:eb66f4f5db9d059310a4e4acb894a280fa26fc3e157146a97779bb60caa9c85b'}
+  - {seq: 1, role: markers, filename: assets/KR6e0028_001.markers.yaml, hash: 'sha256:ea0416aa47346a1ba7407c4b91de662dbb61897652a162ef1e7b9686118937cd'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,7 +49,4 @@ table_of_contents:
   label: 佛說兜沙經一卷
   type: juan
   level: 1
-hash: sha256:1ba59b34a8a4468975b8445b8918c97694b962f95861a0248e0d657838242f29
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:19a8069b075ee0ce63bb6b43b9eff6525e415294e2590e847fda9e1059b743de
