@@ -22,7 +22,7 @@ assets:
   - {seq: 0, filename: KR6e0028_000-T.yaml, hash: 'sha256:27718b98b8a5e8b28a0a0895c8791b7edb4b4964f0c4a3fe5255b8438bba5e7c'}
   - {seq: 1, filename: KR6e0028_001-T.yaml, hash: 'sha256:636c2fc193f2604f81845e00de304cda0b3dd511d8401b350f1acb33ea6eb13f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6e0028_000-T.markers.yaml, hash: 'sha256:88a2d4eef657cbc38654a264eaf7b1c6b3cc72a3d31e68f07307fa4419d68875'}
+  - {seq: 0, role: markers, filename: assets/KR6e0028_000-T.markers.yaml, hash: 'sha256:ea5456f6e74735885a3a88f8ac9b2706808d1c8d7fbf8cd422fe388f68a0cf5d'}
   - {seq: 1, role: markers, filename: assets/KR6e0028_001-T.markers.yaml, hash: 'sha256:780a411555c90602c3650ffe785293df1dcce647c6c964aa84ac755b5c44e691'}
 table_of_contents:
 - ref:
@@ -35,4 +35,4 @@ table_of_contents:
   label: 佛說兜沙經一卷
   type: juan
   level: 1
-hash: sha256:332e1771788aa1963ba80eca3085501aa6e37ea91877dfa48d875945391c0d71
+hash: sha256:c6257494e5622ce50fce23eda0d52e865d058b1e425146fd6ad6fb3b1af427ba
